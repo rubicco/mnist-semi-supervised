@@ -1,0 +1,13 @@
+# This file may be used to create an environment using:
+# These are the libraries that I imported. In case of you have trouble
+#  with dependencies, contact me.
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+pandas=1.0.5=py38h0573a6f_0
+numpy=1.18.5=py38ha1c710e_0
+matplotlib=3.2.2=0
+pytorch=1.6.0=py3.8_cuda10.1.243_cudnn7.6.3_0
+scikit-image=0.16.2=py38h0573a6f_0
+scikit-learn=0.23.1=py38h423224d_0
+scipy=1.5.0=py38h0b6359f_0
+urllib3=1.25.9=py_0
